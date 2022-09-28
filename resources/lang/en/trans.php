@@ -82,9 +82,9 @@ return [
 'article title'=>'article title in english',
 'Our Media Library'=>'Our Media Librar',
 'Explore Our Library of Media'=>'Explore Our Library of Media',
-'Our Video Library'=>'Our Video Library',
+'Our Video Library'=>'My Video Library',
 'Explore Our Library of Videos'=>'Explore Our Library of Videos',
-'Our Latest News & Articles'=>'Our Latest News & Articles',
+'Our Latest News & Articles'=>'My Blog',
 'Our News'=>'Our News',
 'Contact Us'=>'Contact Us ',
 'Usefull Links'=>'Usefull Links',
@@ -107,7 +107,9 @@ return [
 'Send'=>'Send',
 
 'Personal Profile'=>'Personal Profile',
-''=>'',
+'Video Title'=>'Video Title',
+'Video Sub Title'=>'Video Sub Title',
+
 ''=>'',
 ''=>'',
 ''=>'',

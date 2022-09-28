@@ -44,7 +44,7 @@
         <div class="col-lg-4 col-12">
                             <div class="services-thumb text-center">
                                 <div class="align-items-center  border-bottom mb-2 pb-2">
-                                    <h5 class="text-uppercase mt-2 mb-3 text-center">{{__('trans.article title')}}</h5>
+                                    <h5 class="text-uppercase mt-2 mb-3 text-center">{{__('trans.Video Title')}}</h5>
                                 </div>
 
                                 <iframe src="https://www.youtube.com/embed/4Z9mUjtFJYY"
@@ -65,7 +65,7 @@
                         <div class="col-lg-4 col-12">
                             <div class="services-thumb text-center">
                                 <div class="align-items-center  border-bottom mb-2 pb-2">
-                                    <h5 class="text-uppercase mt-2 mb-3 text-center">{{__('trans.article title')}}</h5>
+                                    <h5 class="text-uppercase mt-2 mb-3 text-center">{{__('trans.Video Title')}}</h5>
                                 </div>
 
                                 <iframe src="https://www.youtube.com/embed/4Z9mUjtFJYY"
@@ -86,7 +86,7 @@
                         <div class="col-lg-4 col-12">
                             <div class="services-thumb text-center">
                                 <div class="align-items-center  border-bottom mb-2 pb-2">
-                                    <h5 class="text-uppercase mt-2 mb-3 text-center">{{__('trans.article title')}}</h5>
+                                    <h5 class="text-uppercase mt-2 mb-3 text-center">{{__('trans.Video Title')}}</h5>
                                 </div>
 
                                 <iframe src="https://www.youtube.com/embed/4Z9mUjtFJYY"
@@ -107,7 +107,7 @@
                         <div class="col-lg-4 col-12">
                             <div class="services-thumb text-center">
                                 <div class="align-items-center  border-bottom mb-2 pb-2">
-                                    <h5 class="text-uppercase mt-2 mb-3 text-center">{{__('trans.article title')}}</h5>
+                                    <h5 class="text-uppercase mt-2 mb-3 text-center">{{__('trans.Video Title')}}</h5>
                                 </div>
 
                                 <iframe src="https://www.youtube.com/embed/4Z9mUjtFJYY"
@@ -128,7 +128,7 @@
                         <div class="col-lg-4 col-12">
                             <div class="services-thumb text-center">
                                 <div class="align-items-center  border-bottom mb-2 pb-2">
-                                    <h5 class="text-uppercase mt-2 mb-3 text-center">{{__('trans.article title')}}</h5>
+                                    <h5 class="text-uppercase mt-2 mb-3 text-center">{{__('trans.Video Title')}}</h5>
                                 </div>
 
                                 <iframe src="https://www.youtube.com/embed/4Z9mUjtFJYY"
@@ -149,7 +149,7 @@
                         <div class="col-lg-4 col-12">
                             <div class="services-thumb text-center">
                                 <div class="align-items-center  border-bottom mb-2 pb-2">
-                                    <h5 class="text-uppercase mt-2 mb-3 text-center">{{__('trans.article title')}}</h5>
+                                    <h5 class="text-uppercase mt-2 mb-3 text-center">{{__('trans.Video Title')}}</h5>
                                 </div>
 
                                 <iframe src="https://www.youtube.com/embed/4Z9mUjtFJYY"
@@ -170,7 +170,7 @@
                         <div class="col-lg-4 col-12">
                             <div class="services-thumb text-center">
                                 <div class="align-items-center  border-bottom mb-2 pb-2">
-                                    <h5 class="text-uppercase mt-2 mb-3 text-center">{{__('trans.article title')}}</h5>
+                                    <h5 class="text-uppercase mt-2 mb-3 text-center">{{__('trans.Video Title')}}</h5>
                                 </div>
 
                                 <iframe src="https://www.youtube.com/embed/4Z9mUjtFJYY"

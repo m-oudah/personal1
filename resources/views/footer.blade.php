@@ -2,12 +2,19 @@
             <div class="container">
                 <div class="row">
 
-                    <div class="col-lg-12 col-12">
+                    <div class="col-lg-6 col-12">
                         <div class="copyright-text-wrap">
                             <p class="mb-0">
-                                <span class="copyright-text">Copyright © 2022 <a href="#">Personal Website</a>. All rights reserved.</span>
-                                Developed By: 
-                                <a href="https://cityart.my" target="_blank">CityArt</a>
+                                <span class="copyright-text">{{__('trans.copyright')}} Personal Website © 2022</span>
+                            </p>
+                        </div>
+                    </div>
+                    <div class="col-lg-6 col-12">
+                        <div class="copyright-text-wrap">
+                            <p class="mb-0">
+                                <span class="copyright-text"> {{__('trans.Developed By')}}
+                                <a href="https://c-web20.com" target="_blank">C-Web</a></span>
+                        
                             </p>
                         </div>
                     </div>

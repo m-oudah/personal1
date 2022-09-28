@@ -30,7 +30,7 @@ return [
 'Soon'=>'قريبا ...',
 'available on'=>'متوفر على',
 'soon on'=>'قريبا على',
-'Developed by'=>'تطوير ',
+'Developed By'=>'صنع بحب من ',
 'CityArt'=>'سيتي آرت',
 'current language'=>'العربية',
 
@@ -51,7 +51,7 @@ return [
 'slider2'=>'خدمات احترافية بأسعار مميزة',
 'Contact US'=>'تواصل معنا',
 'What We Offer'=>'ماذا نقدم',
-'Portofolio'=>'معرض الأعمال',
+'Portofolio'=>'أعمالي ',
 'View'=>'عرض',
 'View More Images'=>'عرض جميع الصور',
 'View More Services'=>'عرض جميع الخدمات',
@@ -88,9 +88,9 @@ return [
 'article title'=>'عنوان المقال باللغة العربية',
 'Our Media Library'=>'معرض صورنا',
 'Explore Our Library of Media'=>'استعرض مكتبة صورنا',
-'Our Video Library'=>'مكتبة الفيديو',
-'Explore Our Library of Videos'=>'استعرض مكتب الفيديوهات الخاصة بنا',
-'Our Latest News & Articles'=>'آخر مقالاتنا وأخبارنا',
+'Our Video Library'=>'فيديوهاتي ',
+'Explore Our Library of Videos'=>'استعرض فيديوهاتي',
+'Our Latest News & Articles'=>'مدونتي',
 'Our News'=>'أخبارنا',
 'Contact Us'=>'تواصل معنا ',
 'Usefull Links'=>'روابط مفيدة',
@@ -108,17 +108,19 @@ return [
 'Tell me about your request'=>'فكرة قصيرة عن المشروع المطلوب',
 'Welcome to My Personal Page'=>'أهلاً بكم في صفحتي الشخصية',
 'Hello Im'=>'أنا محمد ..',
-'subtitle'=>'معلومات مختصرة عن المقال أو الفيديو',
+'subtitle'=>'معلومات عن المقال ',
 
 'Send'=>'إرسال',
 'Personal Profile'=>'المدونة الشخصية',
-''=>'',
+'Video Title'=>'عنوان الفيديو',
+'Video Sub Title'=>' معلومات عن الفيديو',
+
 ''=>'',
 ''=>'',
 
 
 
-'copyright' => 'جميع الحقوق محفوظة لدى شركة ...   Ⓒ 2022',
+'copyright' => 'جميع الحقوق محفوظة لدى',
 
 ]
 

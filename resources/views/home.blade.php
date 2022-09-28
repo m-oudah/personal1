@@ -62,7 +62,7 @@
                                 class="avatar-image img-fluid" alt="">
                         </div>
 
-                        <h3 class="pt-2 mb-3">{{__('trans.little about me')}}</h3>
+                        <h3 class="pt-2 mt-4 mb-3">{{__('trans.little about me')}}</h3>
 
                         <div class="text-justify">
                             {!! __('trans.aboutdetails1') !!}
@@ -193,7 +193,7 @@
                         <div class="col-lg-4 col-12">
                             <div class="services-thumb text-center">
                                 <div class="align-items-center  border-bottom mb-2 pb-2">
-                                    <h5 class="text-uppercase mt-2 mb-3 text-center">{{__('trans.article title')}}</h5>
+                                    <h5 class="text-uppercase mt-2 mb-3 text-center">{{__('trans.Video Title')}}</h5>
                                 </div>
 
                                 <iframe src="https://www.youtube.com/embed/4Z9mUjtFJYY"
@@ -202,7 +202,7 @@
                                     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                                     allowfullscreen></iframe>
 
-                                <p>{{__('trans.subtitle')}}</p>
+                                <p>{{__('trans.Video Sub Title')}}</p>
 
                                 <!-- <a href="#" class="custom-btn custom-border-btn btn mt-3">Discover More</a> -->
 
@@ -215,7 +215,7 @@
                         <div class="col-lg-4 col-12">
                             <div class="services-thumb text-center">
                                 <div class="align-items-center  border-bottom mb-2 pb-2">
-                                    <h5 class="text-uppercase mt-2 mb-3 text-center">{{__('trans.article title')}}</h5>
+                                    <h5 class="text-uppercase mt-2 mb-3 text-center">{{__('trans.Video Title')}}</h5>
                                 </div>
 
                                 <iframe src="https://www.youtube.com/embed/4Z9mUjtFJYY"
@@ -224,7 +224,7 @@
                                     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                                     allowfullscreen></iframe>
 
-                                <p>{{__('trans.subtitle')}}</p>
+                                <p>{{__('trans.Video Sub Title')}}</p>
 
                                 <!-- <a href="#" class="custom-btn custom-border-btn btn mt-3">Discover More</a> -->
 
@@ -237,7 +237,7 @@
                         <div class="col-lg-4 col-12">
                             <div class="services-thumb text-center">
                                 <div class="align-items-center  border-bottom mb-2 pb-2">
-                                    <h5 class="text-uppercase mt-2 mb-3 text-center">{{__('trans.article title')}}</h5>
+                                    <h5 class="text-uppercase mt-2 mb-3 text-center">{{__('trans.Video Title')}}</h5>
                                 </div>
 
                                 <iframe src="https://www.youtube.com/embed/4Z9mUjtFJYY"
@@ -246,7 +246,7 @@
                                     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                                     allowfullscreen></iframe>
 
-                                <p>{{__('trans.subtitle')}}</p>
+                                <p>{{__('trans.Video Sub Title')}}</p>
 
                                 <!-- <a href="#" class="custom-btn custom-border-btn btn mt-3">Discover More</a> -->
 
